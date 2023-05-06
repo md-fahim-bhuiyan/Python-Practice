@@ -15,3 +15,6 @@ print(type(value))
 print(type(x))
 print(x)
 print(x[1])
+
+
+
