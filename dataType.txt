@@ -1,0 +1,24 @@
+In Python, list, tuple, and set are three common collection data types, each with their own unique characteristics. Here are the key differences between them:
+
+List:
+    Lists are defined with square brackets [].
+    Lists are mutable, which means you can change their contents after they are created.
+    Lists are ordered, which means the elements have a specific order and you can access them by their index.
+    Lists can contain duplicate elements.
+    Examples: my_list = [1, 2, 3, "apple", "banana"]
+
+
+Tuple:
+    Tuples are defined with parentheses ().
+    Tuples are immutable, which means you cannot change their contents after they are created.
+    Tuples are ordered, which means the elements have a specific order and you can access them by their index.
+    Tuples can contain duplicate elements.
+    Examples: my_tuple = (1, 2, 3, "apple", "banana")
+
+
+Set:
+    Sets are defined with curly braces {} or the set() function.
+    Sets are mutable, which means you can change their contents after they are created.
+    Sets are unordered, which means the elements do not have a specific order and you cannot access them by their index.
+    Sets cannot contain duplicate elements.
+    Examples: my_set = {1, 2, 3, "apple", "banana"} or my_set = set([1, 2, 3, "apple", "banana"])
