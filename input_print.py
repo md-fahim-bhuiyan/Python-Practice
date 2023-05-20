@@ -1,6 +1,6 @@
-#input
+# input
 variable = input('Enter a number:')
 
-#print
+# print
 print('Your Input Number=' + variable)
 
