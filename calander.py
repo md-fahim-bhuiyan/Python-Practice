@@ -1,16 +1,16 @@
-# import calendar
-#
-# year = 2023
-# month = '06'
-#
-# print(calendar.month(year, int(month)))
+import calendar
+
+year = 2023
+month = '06'
+
+print(calendar.month(year, int(month)))
 
 
-# import calendar
-#
-# year = 2023
-#
-# print(calendar.calendar(year))
+import calendar
+
+year = 2023
+
+print(calendar.calendar(year))
 
 
 import calendar
