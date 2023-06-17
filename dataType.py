@@ -12,6 +12,8 @@ print(type(value))
 x = ["apple", "banana", "cherry"]
 
 print(type(x))
+
+
 print(x)
 print(x[1])
 
