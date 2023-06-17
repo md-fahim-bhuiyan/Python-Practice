@@ -14,10 +14,13 @@ def calculate():
 
     if operator == 'add':
         result = num1 + num2
+
     elif operator == 'subtract':
         result = num1 - num2
+
     elif operator == 'multiply':
         result = num1 * num2
+
     elif operator == 'divide':
         result = num1 / num2
     else:
