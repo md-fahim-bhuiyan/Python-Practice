@@ -8,6 +8,7 @@ print(type(number2))
 print(type(name))
 print(type(value))
 
+
 # List
 x = ["apple", "banana", "cherry"]
 
