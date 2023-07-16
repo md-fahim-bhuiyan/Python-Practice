@@ -10,8 +10,6 @@ inputList = input("Enter a list of elements(int), separated by spaces: ")
 splitList = inputList.split()
 
 newList = [int(num) for num in splitList]
-
-
 print("Your Input List: ", newList)
 
 # All data input on String
