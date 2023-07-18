@@ -2,6 +2,7 @@ listA = [1, 2, 3, 4, 5, 6, "BD"]
 
 print("List :", listA)
 print("Length: ", len(listA))
+
 print(type(listA[6]))
 
 # Int Number Input
