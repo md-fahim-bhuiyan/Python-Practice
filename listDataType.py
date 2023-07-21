@@ -8,6 +8,7 @@ print(type(listA[6]))
 # Int Number Input
 inputList = input("Enter a list of elements(int), separated by spaces: ")
 
+
 splitList = inputList.split()
 
 
