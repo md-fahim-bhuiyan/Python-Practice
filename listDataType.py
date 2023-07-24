@@ -17,5 +17,3 @@ print("Your Input List: ", newList)
 inputAllList = input("Enter a list of elements, separated by spaces: ").split()
 print("Length: ", len(inputAllList))
 print(inputAllList)
-
-
