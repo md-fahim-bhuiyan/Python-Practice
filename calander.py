@@ -11,4 +11,3 @@ calendar_html = calendar.HTMLCalendar().formatyear(year)
 
 with open('calendar.html', 'w') as file:
     file.write(calendar_html)
-
