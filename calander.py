@@ -1,8 +1,6 @@
 import calendar
-
 year = 2023
 month = '06'
-
 print(calendar.month(year, int(month)))
 year = 2023
 year2 =2025
