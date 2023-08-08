@@ -7,7 +7,6 @@ with open('New.txt', 'r') as f:
     content = f.read()
     print('File Contents:')
     print(content)
-
 # Append more content to the file
 with open('New.txt', 'a') as f:
     f.write('\nThis is some additional content.')
