@@ -19,3 +19,4 @@ while i <= 10:
     i = i + 1
 print('Hello')
 # break and continue statements are use on loop
+print(bool(0))
