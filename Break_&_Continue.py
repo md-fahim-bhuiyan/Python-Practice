@@ -1,4 +1,4 @@
-#Continue Statement
+# Continue Statement
 
 i = 0
 while i < 10:
@@ -9,7 +9,7 @@ while i < 10:
 
 print('Hello\n')
 
-#Break Statement
+# Break Statement
 
 i = 1
 while i <= 10:
